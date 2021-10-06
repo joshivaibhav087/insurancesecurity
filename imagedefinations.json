@@ -1,0 +1,6 @@
+[
+{
+"name": "securitycontainer",
+"imageUri": "401227757136.dkr.ecr.ap-south-1.amazonaws.com/insurance-security:latest"
+}
+]
