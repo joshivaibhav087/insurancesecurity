@@ -11,7 +11,7 @@ import javax.transaction.Transactional
 
 
 @Service
-class UserDetailsServiceImpl : UserDetailsService {
+open class UserDetailsServiceImpl : UserDetailsService {
     @Autowired
     var userRepository: UserRepository? = null
 
